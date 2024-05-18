@@ -64,13 +64,17 @@ The simulation replicates the results from the paper, demonstrating that the met
 * Localization accuracy comparable to more complex methods.
 * Performance in various simulated scenarios to validate robustness.
 
-### Without Noise![figure ](./figures/sim.png) {without noise}
+### Without Noise![figure ](./figures/sim.png)
 
 ### With Noise
 
 ![with noise](./figures/sim_noise.png)
 
-
 ## References
 
 * Sperry, A. J., Christensen, J. J., & Abbott, J. J. (2022). Six-Degree-of-Freedom Localization With a 3-Axis Accelerometer and a 2-Axis Magnetometer for Magnetic Capsule Endoscopy. IEEE Robotics and Automation Letters, 7(2), 2110-2115.
+
+## TODO
+
+* [ ] project structure
+* [ ] statistic analysis
